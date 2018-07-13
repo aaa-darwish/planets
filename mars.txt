@@ -1,5 +1,7 @@
 cold and dry but everthing else is good 
 Mars has two moons
 Moons are Phobos and Deimos
+<<<<<<< HEAD
 I added a different line other than Ahmed'sy
+Phobos is small
 
